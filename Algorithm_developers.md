@@ -21,9 +21,9 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Math for Computer Scientist](#math-for-computer-scientist)
 - [Computer Organization and Architecture](#computer-organization-and-architecture)
-- [Computer Graphics](#computer-graphics)
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [Robotics](#robotics)
+- [Computer Graphics (optional)](#computer-graphics)
 - [Embedded Systems (optional)](#embedded-systems)
 
 Courses
@@ -384,26 +384,6 @@ Courses
 
 -------
 
-### Computer Graphics
-
-- [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
-- [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
-- [Introduction to Computer Graphics - IIT Delhi](http://nptel.ac.in/courses/106102065/)
-- [Computer Graphics - IIT Madras](http://nptel.ac.in/courses/106106090/)
-- [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
-- [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
-- [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
-- [CSCI E-234 - Introduction to Computer Graphics and GPU Programming, Harvard Extension School](https://itunes.apple.com/us/itunes-u/csci-e-234-introduction-to/id429428034?mt=10)
-- [Computer Graphics Fall 2011, Barbara Hecker](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
-- [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
-- [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
-- [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
-- [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
-- [Computational Geometry - IIT Delhi](http://nptel.ac.in/courses/106102011/)
-- [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html)
-
--------
-
 ### Image Processing and Computer Vision
 
 - [MOOC - Digital Image procesing - Duke/Coursera](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
@@ -450,7 +430,27 @@ Courses
 - [Introduction to Mobile Robotics - SS 2017 - University of Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/)
 - [Robot Mapping - WS 2015/16 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws15/mapping/)
 
--------------------------
+------------
+
+### Computer Graphics (optional)
+
+- [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
+- [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
+- [Introduction to Computer Graphics - IIT Delhi](http://nptel.ac.in/courses/106102065/)
+- [Computer Graphics - IIT Madras](http://nptel.ac.in/courses/106106090/)
+- [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
+- [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
+- [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
+- [CSCI E-234 - Introduction to Computer Graphics and GPU Programming, Harvard Extension School](https://itunes.apple.com/us/itunes-u/csci-e-234-introduction-to/id429428034?mt=10)
+- [Computer Graphics Fall 2011, Barbara Hecker](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
+- [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
+- [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
+- [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+- [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
+- [Computational Geometry - IIT Delhi](http://nptel.ac.in/courses/106102011/)
+- [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html)
+
+-------
 
 ### Embedded Systems (optional)
 
